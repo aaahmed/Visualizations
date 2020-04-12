@@ -1,2 +1,2 @@
 # Visualizations
-This Repository includes various visualizations exercises for data science
+This Repository includes various visualizations exercises for data science in python 
